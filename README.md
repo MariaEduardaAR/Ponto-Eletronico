@@ -103,7 +103,7 @@ SISTEMADEPONTOELETRONICO-MAIN-ELETRO/
 
 ---
 
-## 🛡️ Segurança e Limitações
+## Segurança e Limitações
 
 - Uso de `esp_crt_bundle_attach` para HTTPS seguro.
 - O alcance da leitura RFID é limitado (~3-5 cm).
@@ -111,7 +111,7 @@ SISTEMADEPONTOELETRONICO-MAIN-ELETRO/
 
 ---
 
-## 📈 Resultados dos Testes
+## Resultados dos Testes
 
 - Leitura confiável em até 4 cm.
 - Tempo de resposta: 3-5 segundos.
@@ -129,7 +129,7 @@ SISTEMADEPONTOELETRONICO-MAIN-ELETRO/
 
 ---
 
-## 📌 Licença
+## Licença
 
 Este projeto é de caráter educacional e pode ser usado livremente com atribuição aos autores.
 
